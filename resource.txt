@@ -1,0 +1,3 @@
+greeter config: https://github.com/goolord/alpha-nvim/discussions/16
+config mainly by Tuff Gnuiz: https://www.youtube.com/channel/UC1d_1egvm6BjuRz7qcCuoNA
+dragon art: https://asciiart.cc/view/12605
