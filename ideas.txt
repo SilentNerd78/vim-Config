@@ -1,4 +1,0 @@
-https://github.com/SmiteshP/nvim-gps
-https://github.com/preservim/tagbar
-https://github.com/dansomething/vim-hackernews
-https://github.com/sainnhe/everforest
